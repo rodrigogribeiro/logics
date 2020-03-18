@@ -1,0 +1,9 @@
+-R . logics
+
+Syntax/Syntax.v
+Syntax/OPE.v
+Syntax/Sub.v
+Models/Standard.v
+Models/Kripke.v
+Normalization/NormalForm.v
+Normalization/Normalization.v
